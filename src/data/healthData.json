@@ -1,0 +1,112 @@
+{
+  "fever": {
+    "advice": "Take rest, drink plenty of fluids, and monitor your temperature. You can take paracetamol if needed.",
+    "severity": "medium",
+    "shouldSeeDoctor": true,
+    "recommendations": [
+      "Rest and stay hydrated",
+      "Take paracetamol for fever relief",
+      "Monitor temperature regularly",
+      "Consult doctor if fever persists for more than 3 days"
+    ]
+  },
+  "headache": {
+    "advice": "Rest in a quiet, dark room. Apply a cold compress to your forehead and stay hydrated.",
+    "severity": "low",
+    "shouldSeeDoctor": false,
+    "recommendations": [
+      "Rest in a quiet environment",
+      "Apply cold compress",
+      "Stay hydrated",
+      "Avoid bright lights and loud sounds"
+    ]
+  },
+  "cough": {
+    "advice": "Stay hydrated, use honey for throat soothing, and avoid irritants like smoke.",
+    "severity": "low",
+    "shouldSeeDoctor": false,
+    "recommendations": [
+      "Drink warm water with honey",
+      "Avoid smoking and dust",
+      "Use a humidifier",
+      "Consult doctor if cough persists for more than 2 weeks"
+    ]
+  },
+  "stomach_pain": {
+    "advice": "Eat light foods, avoid spicy or fatty foods, and drink warm water.",
+    "severity": "medium",
+    "shouldSeeDoctor": true,
+    "recommendations": [
+      "Eat bland foods like rice, toast",
+      "Avoid spicy and fatty foods",
+      "Stay hydrated",
+      "Consult doctor if pain is severe or persists"
+    ]
+  },
+  "chest_pain": {
+    "advice": "This could be serious. Please seek immediate medical attention.",
+    "severity": "high",
+    "shouldSeeDoctor": true,
+    "recommendations": [
+      "Seek immediate medical attention",
+      "Do not ignore chest pain",
+      "Call emergency services if severe",
+      "Avoid physical exertion"
+    ]
+  },
+  "shortness_of_breath": {
+    "advice": "This requires immediate medical attention. Please consult a doctor or go to the emergency room.",
+    "severity": "high",
+    "shouldSeeDoctor": true,
+    "recommendations": [
+      "Seek immediate medical attention",
+      "Sit upright and try to stay calm",
+      "Avoid physical exertion",
+      "Call emergency services if severe"
+    ]
+  },
+  "cold": {
+    "advice": "Rest, drink warm fluids, and use saline nasal drops. Symptoms usually resolve in 7-10 days.",
+    "severity": "low",
+    "shouldSeeDoctor": false,
+    "recommendations": [
+      "Get plenty of rest",
+      "Drink warm fluids",
+      "Use saline nasal drops",
+      "Avoid close contact with others"
+    ]
+  },
+  "fatigue": {
+    "advice": "Ensure adequate sleep, maintain a healthy diet, and stay hydrated.",
+    "severity": "low",
+    "shouldSeeDoctor": false,
+    "recommendations": [
+      "Get 7-8 hours of sleep",
+      "Eat a balanced diet",
+      "Stay hydrated",
+      "Limit caffeine and alcohol"
+    ]
+  },
+  "dizziness": {
+    "advice": "Sit or lie down immediately, stay hydrated, and avoid sudden movements.",
+    "severity": "medium",
+    "shouldSeeDoctor": true,
+    "recommendations": [
+      "Sit or lie down immediately",
+      "Stay hydrated",
+      "Avoid sudden movements",
+      "Consult doctor if dizziness persists"
+    ]
+  },
+  "rash": {
+    "advice": "Keep the area clean and dry, avoid scratching, and use gentle moisturizers.",
+    "severity": "low",
+    "shouldSeeDoctor": false,
+    "recommendations": [
+      "Keep affected area clean",
+      "Avoid scratching",
+      "Use gentle moisturizers",
+      "Consult doctor if rash spreads or worsens"
+    ]
+  }
+}

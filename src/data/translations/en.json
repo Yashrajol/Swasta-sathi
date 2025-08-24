@@ -1,0 +1,87 @@
+{
+  "app": {
+    "title": "Swasthya Sathi",
+    "subtitle": "Your AI Health Assistant"
+  },
+  "navigation": {
+    "home": "Home",
+    "voice": "Voice Assistant",
+    "appointments": "Appointments",
+    "about": "About"
+  },
+  "home": {
+    "welcome": "Welcome to Swasthya Sathi",
+    "description": "Your trusted AI-powered health assistant that understands your concerns in your preferred language.",
+    "features": {
+      "voice": "Voice Recognition",
+      "ai": "AI Health Advice",
+      "booking": "Easy Appointment Booking",
+      "multilingual": "Multi-language Support"
+    },
+    "getStarted": "Get Started",
+    "selectLanguage": "Select Language"
+  },
+  "voice": {
+    "title": "Voice Health Assistant",
+    "startListening": "Start Speaking",
+    "stopListening": "Stop",
+    "processing": "Processing...",
+    "placeholder": "Tap the microphone and describe your symptoms...",
+    "speakNow": "Speak now...",
+    "noSpeech": "No speech detected. Please try again.",
+    "error": "Voice recognition error. Please try again.",
+    "getAdvice": "Get Health Advice"
+  },
+  "results": {
+    "title": "Health Advice",
+    "severity": {
+      "low": "Low Priority",
+      "medium": "Medium Priority",
+      "high": "High Priority - Consult Doctor Soon"
+    },
+    "recommendations": "Recommendations",
+    "bookAppointment": "Book Doctor Appointment",
+    "askAnother": "Ask Another Question",
+    "emergency": "In case of emergency, please call 108 immediately"
+  },
+  "appointment": {
+    "title": "Book Appointment",
+    "form": {
+      "name": "Full Name",
+      "age": "Age",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "symptoms": "Describe your symptoms",
+      "preferredDate": "Preferred Date",
+      "preferredTime": "Preferred Time",
+      "submit": "Book Appointment",
+      "cancel": "Cancel"
+    },
+    "success": "Appointment booked successfully! You will receive a confirmation call shortly.",
+    "error": "Please fill in all required fields."
+  },
+  "about": {
+    "title": "About Swasthya Sathi",
+    "description": "Swasthya Sathi is an AI-powered health assistant designed to provide preliminary health advice and facilitate easy appointment booking with healthcare professionals.",
+    "features": {
+      "title": "Key Features",
+      "items": [
+        "Multi-language voice recognition",
+        "AI-powered health advice",
+        "Easy appointment booking",
+        "Offline fallback support",
+        "Symptom trend analysis"
+      ]
+    },
+    "disclaimer": "This service is not a substitute for professional medical advice. Always consult with qualified healthcare professionals for serious health concerns."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "retry": "Retry",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}
